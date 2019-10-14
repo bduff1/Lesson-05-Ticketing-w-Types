@@ -1,0 +1,32 @@
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\NLog.config
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\NLog.dll
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\bin\Debug\NLog.xml
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\obj\Debug\MovieApp.csprojResolveAssemblyReference.cache
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\bitinstructor\Source\Repos\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\NLog.config
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\NLog.dll
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\bin\Debug\NLog.xml
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\obj\Debug\MovieApp.csprojAssemblyReference.cache
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CopyComplete
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Brian\Documents\WCTC\.Net Database Programming (Legacy)\Class 7\MovieApp(11)\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.config
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.exe.config
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.exe
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.pdb
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.dll
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.xml
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.csproj.CopyComplete
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.exe
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.pdb

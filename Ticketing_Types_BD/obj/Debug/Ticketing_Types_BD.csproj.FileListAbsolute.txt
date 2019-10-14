@@ -1,0 +1,11 @@
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\Ticketing_Types_BD.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\Ticketing_Types_BD.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.exe
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\MovieApp.pdb
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.config
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.exe.config
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.exe
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\MovieApp.pdb
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.dll
+C:\Users\Brian\Desktop\Ticketing_Types_BD\bin\Debug\NLog.xml
+C:\Users\Brian\Desktop\Ticketing_Types_BD\obj\Debug\Ticketing_Types_BD.csproj.CopyComplete
